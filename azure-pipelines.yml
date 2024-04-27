@@ -12,5 +12,5 @@ steps:
   inputs:
     azureSubscription: 'DEMO Connection'
     appType: 'webAppLinux'
-    appName: 'My-calculc'
+    appName: 'CalAP'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
